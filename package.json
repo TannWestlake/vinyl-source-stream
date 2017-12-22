@@ -5,7 +5,7 @@
   "main": "index.js",
   "browser": "index.js",
   "dependencies": {
-    "vinyl": "^0.4.3",
+    "vinyl": "^2.1.0",
     "through2": "^0.6.1"
   },
   "devDependencies": {
